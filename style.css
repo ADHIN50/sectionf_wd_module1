@@ -1,0 +1,24 @@
+.odd{
+    color: rgb(21, 255, 0);
+}
+.even{
+    color: red;
+}
+h1{
+    color: green;
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    font-weight:bold;
+}
+button{
+         border: 2px solid black;
+         border-radius: 10px;
+         position
+}
